@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-5d8f198ba1314e29ab8abb7f1e8da7f1
+  name: MIT Climate Portal Website
+  url: https://climate.mit.edu/
+  weight: 1000
